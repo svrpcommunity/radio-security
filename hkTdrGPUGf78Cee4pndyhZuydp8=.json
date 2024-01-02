@@ -1,17 +1,8 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
-    "communityName": "trxppyhxppy - 659864108895698970",
-    "betaCommunity": false,
-    "features": {
-        "inGameInterface": true,
-        "rangeSimulation": true,
-        "emergencyHotline": true
-    },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
     "dispatchServerGroups": ["257","248"],
-    "dispatchAdvancedServerGroups": [""],
+    "dispatchAdvancedServerGroups": ["257","248"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
